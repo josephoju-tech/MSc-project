@@ -1,6 +1,7 @@
 M.Sc. in Information Technology research project
 -----------------------------------------------
 **Design and Implementation of a Hotel Management Software**
+------------------------------------------------------------
 In a bid to address the challenge of managing the influx of customers in hotels.
 I channelled my research project towards the development of Hotel Management Software.
 The project is designed and developed by transmitting the daily operations procedure
